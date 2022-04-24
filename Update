@@ -4,7 +4,7 @@
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Update/main/Update",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "",
-  "UrlContato": "",
+  "UrlContato": "https://wa.me/message/FNEY7I573WAJG1",
   "UrlTermos": "https://raw.githubusercontent.com/Conecta4g_site/main/termos.html",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
