@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "marcola.anubisx.online",
-      "CheckUser": "http://149.56.245.17:2095/checkUser",
+      "CheckUser": "http://149.56.245.17:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
