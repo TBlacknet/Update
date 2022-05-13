@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.11",
+  "Version": "1.0.12",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Update/main/Update",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
@@ -7,11 +7,24 @@
   "UrlContato": "https://wa.me/message/FNEY7I573WAJG1",
   "UrlTermos": "https://raw.githubusercontent.com/Conecta4g_site/main/termos.html",
   "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
   "Udp": [
     {
       "Porta": "7300"
+    }, 
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
     }
-  ],
+   ],
   "Servers": [
     {
       "Name": "Servidor BR",
