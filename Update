@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.17",
+  "Version": "1.0.18",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Update/main/Update",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "Black.agsx@gmail.com",
   "UrlContato": "https://wa.me/message/FNEY7I573WAJG1",
-  "UrlTermos": "https://raw.githubusercontent.com/Conecta4g_site/main/termos.html",
+  "UrlTermos": "https://bitbin.it/5Z3DR6JH/raw/",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
   "Udp": [
@@ -149,7 +149,17 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔴 ️CLARO [SSL 1]",
+     "Name": "🔴CLARO FAST",
+      "FLAG": "Claro",
+      "Payload": "GET wss://No.descomplica.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "No.descomplica.com.br",
+      "TlsIP": "No.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+      },
+    {
+      "Name": "🔴CLARO [SSL 1]",
       "FLAG": "claro",
       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
@@ -159,7 +169,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔴 ️CLARO [SSL 2]",
+      "Name": "🔴CLARO [SSL 2]",
       "FLAG": "claro",
       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
@@ -169,7 +179,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔴 ️CLARO [SSL 3]",
+      "Name": "🔴CLARO [SSL 3]",
       "FLAG": "claro",
       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
@@ -179,11 +189,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔴 ️CLARO LENTO [SSL 4]",
+      "Name": "🔴CLARO MODO LENTO",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
