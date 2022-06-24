@@ -42,9 +42,9 @@
     {
       "Name": "🟣VIVO VIDEO",
       "FLAG": "vivo",
-      "Payload": "GET wss://help.pornhub.com// HTTP/1.1[crlf]Host: SEUDOMINIO[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "help.pornhub.com",
-      "TlsIP": "172.64.194.2",
+      "Payload": "GET wss://portaljud.vivo.com.br// HTTP/1.1[crlf]Host: SEUDOMINIO[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portaljud.vivo.com.br",
+      "TlsIP": "104.18.7.80",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
