@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.37",
+  "Version": "1.0.38",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Update/main/Update",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
@@ -128,7 +128,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟣VIVO [06]🔰",
+      "Name": "🟣VIVO [06]",
       "FLAG": "vivo",
       "Payload": "GET wss://cse.canva.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "cse.canva.com",
