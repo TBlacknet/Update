@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.39",
+  "Version": "1.0.40",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Update/main/Update",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
@@ -76,9 +76,8 @@
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },
-    {
-
+   },
+   {
       "Name": "💜VIVO DDD",
       "FLAG": "vivo",
       "Payload": "GET wss://rapehun.com// HTTP/1.1[crlf]Host: [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
