@@ -1,5 +1,5 @@
 {
-  "Version": "4.0.0",
+  "Version": "5.0.0",
   "ReleaseNotes": "Nova AtualizaÃ§Ã£o DisponÃ­vel",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Update/main/Update",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
@@ -11,36 +11,6 @@
   "Udp": [
     {
       "Porta": "7300"
-    }, 
-    {
-      "Porta": "7400"
-    },
-    {
-      "Porta": "7500"
-    },
-    {
-      "Porta": "7600"
-    },
-    {
-      "Porta": "7700"
-    },
-    {
-      "Porta": "7800"
-    },
-    {
-      "Porta": "7900"
-    },
-    {
-      "Porta": "8000"
-    },
-    {
-      "Porta": "8300"
-    },
-    {
-      "Porta": "9000"
-    },
-    {
-      "Porta": "9300"
     }
    ],
   "Servers": [
